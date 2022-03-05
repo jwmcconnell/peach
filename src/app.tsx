@@ -1,8 +1,15 @@
-import * as React from 'react';
-import * as ReactDOM from 'react-dom';
+import React from 'react';
+import { HashRouter, Route, Routes } from 'react-router-dom';
+import Home from './components/Home';
+import SignIn from './components/SignIn';
 
-function render() {
-  ReactDOM.render(<h2>Hello from React! My name is Jack! bump</h2>, document.body);
+export default () => {
+    return (
+        <HashRouter>
+            <Routes>
+                <Route path='/' element={<Home />} />
+                <Route path='/sign-in' element={<SignIn />} />
+            </Routes> 
+        </HashRouter>
+    )
 }
-
-render();
