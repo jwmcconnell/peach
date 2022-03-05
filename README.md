@@ -25,7 +25,7 @@ npm run start
 
 ## Author
 
-👤 **Jack McConnell**
+![](https://avatars.githubusercontent.com/u/44751199?s=48&v=4) **Jack McConnell**
 
 * Website: [jackmcconnell.dev](www.jackmcconnell.dev)
 * Twitter: [@jackwmcconnell](https://twitter.com/jackwmcconnell)
