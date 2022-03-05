@@ -27,7 +27,7 @@ npm run start
 
 👤 **Jack McConnell**
 
-* Website: jackmcconnell.dev
+* Website: [jackmcconnell.dev](www.jackmcconnell.dev)
 * Twitter: [@jackwmcconnell](https://twitter.com/jackwmcconnell)
 * Github: [@jwmcconnell](https://github.com/jwmcconnell)
 * LinkedIn: [@mcconnelljack](https://linkedin.com/in/mcconnelljack)
